@@ -18,7 +18,7 @@ specifiers:
   eslint-config-prettier: ^8.3.0
   eslint-plugin-prettier: ^4.0.0
   jest: ^27.2.5
-  openrice-data: ^0.1.4
+  openrice-data: ^0.1.6
   prettier: ^2.3.2
   reflect-metadata: ^0.1.13
   rimraf: ^3.0.2
@@ -36,7 +36,7 @@ dependencies:
   '@nestjs/core': 8.4.7_tdkocbskemo2uwka4xhsbznrba
   '@nestjs/platform-express': 8.4.7_7tsmhnugyerf5okgqzer2mfqme
   '@nestjs/platform-fastify': 9.3.9_7tsmhnugyerf5okgqzer2mfqme
-  openrice-data: 0.1.4
+  openrice-data: 0.1.6
   reflect-metadata: 0.1.13
   rimraf: 3.0.2
   rxjs: 7.8.0
@@ -4299,8 +4299,8 @@ packages:
       mimic-fn: 2.1.0
     dev: true
 
-  /openrice-data/0.1.4:
-    resolution: {integrity: sha512-GEEyETLlXp6TE1j2zlZz0np1gYkZobRJbdKdDTBygF0Ns2XW4uRTbnCaGaSSfx6M7kQ3WUZ3ejPTogOa+DFwVg==}
+  /openrice-data/0.1.6:
+    resolution: {integrity: sha512-hHUegBvmSt4R1WXU77DyNdSs2BQuJw4Hifj6IUxSxtAA/GNp6ml36N8/228SndLPPgWqb29/yu6VlhFHXEa8Nw==}
     engines: {node: '>=12'}
     dependencies:
       node-fetch: 3.3.0
